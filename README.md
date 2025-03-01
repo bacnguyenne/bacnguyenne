@@ -23,7 +23,7 @@ Dynamic and driven Data Science student with a passion for leveraging data-drive
 - Linkedin: https://www.linkedin.com/in/bac-nguyen-dinh-nguyen/
 - Facebook: https://www.facebook.com/bac2012.dz
 
-#### In 2024, my aims are:
+#### In 2025, my aims are:
 - [ ] Get 10 points in graduation thesis
 - [ ] Get the IELTS at 6.5 Academic 🙀
 - [ ] Graduated Data Science at IUH with **`good`** diploma 🤟
