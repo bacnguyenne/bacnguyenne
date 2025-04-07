@@ -25,9 +25,10 @@ Dynamic and driven Data Science student with a passion for leveraging data-drive
 
 #### In 2025, my aims are:
 - [ ] Get 10 points in graduation thesis
-- [ ] Get the IELTS at 6.5 Academic 🙀
+- [ ] Get the IELTS at 6.0 Academic 🙀
 - [ ] Graduated Data Science at IUH with **`good`** diploma 🤟
 - [ ] Get the MSc scholarship for international Student 🚀
+- [ ] Submit at least one international paper🔥
 - [ ] 🔥🥳🙌
 - [ ] 🍀🥹🚀
 
