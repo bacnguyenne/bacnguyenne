@@ -16,10 +16,10 @@ I'm a **Data Science Graduate** from the **Industrial University of Ho Chi Minh 
 
 ### 🏆 Key Experiences & Projects
 
-* **🤖 AI Engineer Intern @ Bluebolt Software:** Built a smart recruitment assistant using tool-using agents (LangChain & OpenAI).
-* **🗣️ Researcher @ A*STAR, Singapore:** Developed code-switching ASR systems, reducing Word Error Rate from a 34% baseline to 28%.
-* **🕵️ Researcher @ CCU, Taiwan:** Investigated deepfake detection with Vision Transformers, achieving up to 94% accuracy.
-* **🛍️ Multi-Agent E-commerce Assistant:** Architected a full-stack system with LangChain, AutoGen, FastAPI, Kafka, and Qdrant.
+* **🤖 AI Engineer Intern @ Bluebolt Software:** Built a smart recruitment assistant using tool-using agents.
+* **🗣️ Researcher @ A*STAR, Singapore:** Developed code-switching ASR systems.
+* **🕵️ Researcher @ CCU, Taiwan:** Investigated deepfake detection.
+* **🛍️ Multi-Agent E-commerce Assistant:** Architected a full-stack system with LangChain, AutoGen, FastAPI, Kafka.
 
 ### 🏅 Awards & Highlights
 
