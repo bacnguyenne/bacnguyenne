@@ -1,34 +1,46 @@
-## Hi, I'm Nguyễn Đình Nguyên Bắc👋🏼
-I'm a 4th year student majoring in data science at 𝙄𝙣𝙙𝙪𝙨𝙩𝙧𝙞𝙖𝙡 𝙐𝙣𝙞𝙫𝙚𝙧𝙨𝙞𝙩𝙮 𝙤𝙛 𝙃𝙤 𝘾𝙝𝙞 𝙈𝙞𝙣𝙝 𝘾𝙞𝙩𝙮 with GPA 3.45/4.0 🔥
+## Hi, I'm Nguyễn Đình Nguyên Bắc 👋🏼
 
-Dynamic and driven Data Science student with a passion for leveraging data-driven insights to solve complex problems 🥳 Possessing a strong foundation in statistical analysis, machine learning, and programming, I am adept at extracting meaningful patterns from data to drive informed decision-making 🙌 With hands-on experience in data manipulation, visualization, and predictive modeling, I am equipped to tackle real-world challenges in diverse industries 🚀 Committed to continuous learning and staying updated with the latest advancements in data science 🤟
+I'm a **Data Science Graduate** from the **Industrial University of Ho Chi Minh City**, passionate about building production-ready AI applications.
 
-𝐀𝐰𝐚𝐫𝐝𝐬 & 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞𝐬: 🙀
-- Eureka Consolation Prize at School Level
-- Mentor of AI Club IUH & Programming Lab
-- TOEIC CERTIFICATE 
-- 4 Research papers accepted at YSC young science conference
+🚀 As an AI Engineer and Researcher, I have hands-on experience developing end-to-end LLM-powered systems. My expertise lies in building intelligent agents, multi-modal applications (NLP & CV), and scalable backends using Python, FastAPI, LangChain, and Vector Databases.
 
-𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: Python (OpenCV, PyTorch, TensorFlow, scikit-learn, Langchain), Scala, C/C++
+🌏 My background includes international research internships at **A*STAR (Singapore)** and **National Chung Cheng University (Taiwan)**, where I worked on cutting-edge topics like Code-Switch Automatic Speech Recognition and Deepfake Detection. I thrive on transforming complex research concepts into practical, impactful AI solutions.
 
-𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬: Docker, Hadoop, Spark
+### 🛠️ Tech Stack & Skills
 
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: mongoDB, PostgreSQL, Qdrant
+* **Languages:** Python, C/C++
+* **AI/ML Frameworks:** PyTorch, TensorFlow, scikit-learn, LangChain, AutoGen, Hugging Face 🤗, OpenCV
+* **Backend & Tools:** FastAPI, Docker, Git, Kafka
+* **Databases:** PostgreSQL, MongoDB, Qdrant, Weaviate
+* **Core Skills:** LLM Application Development, Deep Learning, Machine Learning, Computer Vision, Natural Language Processing (NLP), AI Agents
 
-𝐒𝐤𝐢𝐥𝐥𝐬: Teamwork, Data Crawling, Data Visualization, Statistical Analysis, Natural Language Processing (NLP) and Computer Vision (CV) Machine Learning, Deep Learning, Algorithm, CI/CD
+### 🏆 Key Experiences & Projects
 
-𝐂𝐨𝐧𝐭𝐚𝐜𝐭:
-- Phone: +84 333 921 721
-- Mail: nguyendinhnguyenbac@gmail.com
-- Linkedin: https://www.linkedin.com/in/bac-nguyen-dinh-nguyen/
-- Facebook: https://www.facebook.com/bac2012.dz
+* **🤖 AI Engineer Intern @ Bluebolt Software:** Built a smart recruitment assistant using tool-using agents (LangChain & OpenAI).
+* **🗣️ Researcher @ A*STAR, Singapore:** Developed code-switching ASR systems, reducing Word Error Rate from a 34% baseline to 28%.
+* **🕵️ Researcher @ CCU, Taiwan:** Investigated deepfake detection with Vision Transformers, achieving up to 94% accuracy.
+* **🛍️ Multi-Agent E-commerce Assistant:** Architected a full-stack system with LangChain, AutoGen, FastAPI, Kafka, and Qdrant.
+
+### 🏅 Awards & Highlights
+
+* **Top 5** at VLSP 2025 ASR/SER Challenge
+* **4 Research Papers** Accepted at the Young Scientists Conference
+* **Eureka Consolation Prize** at School Level
+* **Member & Mentor** at AI Lab - IUH
+
+### 📬 Let's Connect!
+
+* **Phone:** +84 333 921 721
+* **Mail:** nguyendinhnguyenbac@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/bac-nguyen-dinh-nguyen/
+* **Facebook:** https://www.facebook.com/bac2012.dz
 
 #### In 2025, my aims are:
-- [ ] Get 10 points in graduation thesis
-- [ ] Get the IELTS at 6.0 Academic 🙀
-- [ ] Graduated Data Science at IUH with **`good`** diploma 🤟
-- [ ] Get the MSc scholarship for international Student 🚀
-- [ ] Submit at least one international paper🔥
+- ❌ Get 10 points in graduation thesis (Only 9.5 🥹)
+- [ ] Aiming to achieve IELTS 6.5 Academic 🙀
+- ✅ Graduated with a **`Good`** Diploma in Data Science from IUH (2025)🤟
+- [ ] Seeking an MSc scholarship for international study 🚀
+- [ ] Working towards publishing at least one international paper🔥
 - [ ] 🔥🥳🙌
 - [ ] 🍀🥹🚀
 
