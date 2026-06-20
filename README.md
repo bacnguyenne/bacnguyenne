@@ -1,6 +1,6 @@
 ## Hi, I'm Nguyễn Đình Nguyên Bắc 👋🏼
 
-I'm a **Data Science Graduate** from the **Industrial University of Ho Chi Minh City**, passionate about building production-ready AI applications.
+I'm a **Data Science Graduate** from the **Industrial University of Ho Chi Minh City** and an **AI Engineer at AutoNxt AI**, passionate about building production-ready AI applications.
 
 🚀 As an AI Engineer and Researcher, I have hands-on experience developing end-to-end LLM-powered systems. My expertise lies in building intelligent agents, multi-modal applications (NLP & CV), and scalable backends using Python, FastAPI, LangChain, and Vector Databases.
 
@@ -16,9 +16,11 @@ I'm a **Data Science Graduate** from the **Industrial University of Ho Chi Minh 
 
 ### 🏆 Key Experiences & Projects
 
+* **🚗 AI Engineer @ AutoNxt AI (current):** Building production AI for software-defined vehicles — computer vision, edge AI, and multi-agent orchestration.
 * **🤖 AI Engineer Intern @ Bluebolt Software:** Built a smart recruitment assistant using tool-using agents.
 * **🗣️ Researcher @ A*STAR, Singapore:** Developed code-switching ASR systems.
 * **🕵️ Researcher @ CCU, Taiwan:** Investigated deepfake detection.
+* **🧰 agentlint:** A linter & security scanner for AI coding-agent config (Claude Code & MCP), published on npm and live at https://bacnguyenne.id.vn/agentlint/.
 * **🛍️ Multi-Agent E-commerce Assistant:** Architected a full-stack system with LangChain, AutoGen, FastAPI, Kafka.
 
 ### 🏅 Awards & Highlights
@@ -34,15 +36,6 @@ I'm a **Data Science Graduate** from the **Industrial University of Ho Chi Minh 
 * **Mail:** nguyendinhnguyenbac@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/bac-nguyen-dinh-nguyen/
 * **Facebook:** https://www.facebook.com/bac2012.dz
-
-#### In 2025, my aims are:
-- ❌ Get 10 points in graduation thesis (Only 9.5 🥹)
-- [ ] Aiming to achieve IELTS 6.5 Academic 🙀
-- ✅ Graduated with a **`Good`** Diploma in Data Science from IUH (2025)🤟
-- [ ] Seeking an MSc scholarship for international study 🚀
-- [ ] Working towards publishing at least one international paper🔥
-- [ ] 🔥🥳🙌
-- [ ] 🍀🥹🚀
 
 ---
 ![](https://github-readme-stats.vercel.app/api?username=bacnguyenne&show_icons=true&theme=transparent)
